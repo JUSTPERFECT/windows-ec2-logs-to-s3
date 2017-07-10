@@ -1,0 +1,6 @@
+admin_password="Welcome123$"
+key_name="newkeypair"
+vpc_subnet_id= "subnet-f316da94"
+iam_role="AmazonEC2RoleforSSM"
+s3_bucket_name="tsys-cloudlogfiles-from-ec2"
+AWS_ACCOUNT="125753420942"
